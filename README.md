@@ -10,3 +10,4 @@ Action items:
 
 Action items 2:
 * Read about python mvc web applications; mvc = model-view-controller
+https://www.youtube.com/watch?v=dam0GPOAvVI
